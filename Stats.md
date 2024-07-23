@@ -12,3 +12,33 @@
     - Sigilo
 - <u>Constitución (CON)</u>
   - Principalmente utilizada para definir el bono de HP que tendrá un personaje.
+  - Útil para soportar envenenamientos y otros efectos negativos sobre el cuerpo.
+  - Requerido para mayor *Stamina*.
+- <u>Inteligencia (INT)</u>
+  - Utilizada para definir la eficacia del uso de ataques mágicos, algunos hechizos o habilidades se ven afectadas en daño por este atributo.
+  - Útil para ciertas fabricaciones que requieran el conocimiento adecuado de dichas piezas.
+  - Necesario para que el personaje recuerde información o conozca detalles de algo.
+    Y para las siguientes habilidades:
+    - Arcana (Conocimiento de magia).
+    - Historia
+    - Investigación.
+    - Naturaleza.
+    - Religión,
+- <u>Sabiduría (WIS)</u>
+  - Necesaria para estar al tanto de los alrededores.
+  - Útil para ciertas fabricaciones que requieran la adecuada observación de dichas piezas.
+  - Afecta tanto pasivamente como activamente la percepción del jugador.
+  - Necesaria para las habilidades:
+    - Manejo de animales.
+    - Perspicacia.
+    - Medicina.
+    - Percepción.
+    - Supervivencia.
+- <u>Carisma (CHA)</u>
+  - Utilizada para  definir la eficacia del uso de ataques mágicos que no dependan de inteligencia, algunos hechizos o habilidades se ven afectadas en daño por este atributo.
+  - Útil para las interacciones sociales, ya sean las amistosas o las intimidantes.
+  - Neseario para las habilidades:
+    - Engaño.
+    - Intimidación.
+    - Interpretar.
+    - Persuadir.
