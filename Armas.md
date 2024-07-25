@@ -4,8 +4,6 @@
 Puedes empuñar el arma a dos manos, añadiendo 20% de la fuerza del jugador directamente al ataque mínimo y máximo de un arma.
 Por ejemplo: Si tienes una fuerza de 15 y portas una espada larga, incrementas su ataque de 22 a 25.
 
-
-
 **Armas**
 
 **<u>Espadas</u>**
