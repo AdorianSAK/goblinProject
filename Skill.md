@@ -42,7 +42,21 @@ Requisitos: Ha 53,333 de daño con espada.
 - +10% probabilidad de crítico con espadas.
 - Desbloquea movimiento especial: "Estocada de Precisión" (inflige daño elevado a un único objetivo con probabilidad elevada de critico).
 
-**<u>Atento al Combate</u>**
+**<u>Atento al Combate (3)</u>**
 Mejora tu estado de consciencia en general en la batalla, incluye mejores reacciones, percepción de posiciones enemigas y evasión de ataques.
 
 Requisitos: WIS 12, tener 5 skill points invertidos en habilidades de combate.
+Clases: Guerrero, Arquero
+
+<u>*Lv 1:*</u>
+
+- +5% Evación,
+- +5% Reacción.
+- +5% Percepción.
+
+**<u>Caza Fallas</u>**
+Utiliza tu agudeza y percepción para identificar y explotar las debilidades de tus enemigos, aumentando tu probabilidad de asestar golpes críticos.
+
+Requisitos: Lv 10, WIS 15, 10 Skill Points invertidos en habilidades de combate general.
+
+- Otorga un bono de probabilidad de críticos igual a 25% de tu Sabiduría.
