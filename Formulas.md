@@ -14,4 +14,7 @@
   Precisión = Valor base (75%) + (DEX * 0.5) + (Key Stat * 0.2) + (Bonos por maestría de arma) Todo menos la evasión del objetivo.
 
   Evasión = Valor base (10%) + (DEX * 0.5) + (WIS * 0.2) + (Bonos por habilidad/ Equipamiento).
-
+  
+- **Level Up**
+  Stat points: 2
+  Skill points: 1
