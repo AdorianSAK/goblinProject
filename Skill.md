@@ -109,3 +109,39 @@ Requisitos: Bloquea 25,000 de daño con escudo.
 - +20 de probabilidad de bloque.
 - -20% de costo para el bloqueo.
 - +100% de defensa de escudo.
+
+**<u>Modo Perceptivo (Tecla "P")</u>**
+Requisitos: WIS 10.
+Eficacia: 10 metros.
+Efectos:
+
+- Te mueves más lento.
+- Encontrar objetos ocultos (+5% + WIS/2). 
+- Detectar trampas (+10% + WIS/2).
+- Encontrar fuentes de sonidos (5% + (WIS * 0.3) ).
+
+**<u>Percepción Avanzada</u>**
+
+<u>Lv 1:</u>
+Requisitos: Lv 5, WIS 12.
+Efectos:
+
+- Incrementa radio a 12 metros.
+- +10% probabilidad de encontrar botín.
+
+<u>Lv 2:</u>
+Requisitos: Lv 10, WIS 14.
+Efectos:
+
+- Incrementa el radio a 13 metros.
+- +15% de probabilidad de encontrar botín.
+- Muestra con más precisión la fuente del sonido y también su silueta si es una criatura conocida (+ 5%) (ícono como en Red Alert).
+
+<u>Lv 3:</u>
+Requisitos: Lv 15, WIS 16.
+Efectos:
+
+- Incrementa el radio a 14 metros.
+- +20% de probabilidad de encontrar botín.
+- Muestra con detalles las siluetas de las criaturas tras los muros o superficies (+10%).
+- +30% detección de trampas.
