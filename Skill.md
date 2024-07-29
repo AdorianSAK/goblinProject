@@ -60,3 +60,52 @@ Utiliza tu agudeza y percepción para identificar y explotar las debilidades de 
 Requisitos: Lv 10, WIS 15, 10 Skill Points invertidos en habilidades de combate general.
 
 - Otorga un bono de probabilidad de críticos igual a 25% de tu Sabiduría.
+
+**<u>Escudo Guardián</u>**
+Por unos instantes, sacas el mayor provecho posible de tu escudo. Además tienes oportunidad de bloquear algunos ataques, sufriendo daño en stamina en su lugar.
+
+<u>*Lv 1:*</u>
+Requisitos: Bloquea 500 de daño con escudos.
+
+- Dura 10 segundos.
+- Enfriamiento: 60 segundos.
+- +5% de oportunidad de bloqueo.
+- +60% de defensa de escudo.
+
+<u>*Lv 2:*</u>
+Requisitos: Bloquea 1,500 de daño con escudo.
+
+- Dura 11 segundos.
+- Enfriamiento 58 segundos.
+- +8% de oportunidad de bloqueo.
+- -5% de costo para el bloqueo.
+- Desbloqueas *"Shield Bash"* (stunea al enemigo por 1 segundo).
+- +70% de defensa de escudo.
+
+<u>*Lv 3:*</u>
+Requisitos: Bloquea 4,500 de daño con escudo.
+
+- Duración 12 segundos.
+- Enfriamiento 56 segundos.
+- 12% de probabilidad de bloqueo.
+- -10% de costo para el bloqueo.
+- *"Shield Bash"* ahora aturde por 2 segundos.
+- +80% de defensa de escudo
+
+<u>*Lv 4:*</u> 
+Requisitos: Bloquea 12,500 de daño con escudo.
+
+- Duración 13 segundos.
+- Enfriamiento 54 segundos
+- +16% de probabilidad de bloqueo.
+- -15% de costo para el bloqueo.
+- +90% de defensa de escudo.
+
+<u>Lv 5:</u>
+Requisitos: Bloquea 25,000 de daño con escudo.
+
+- Duración 14 Segundos.
+- Enfriamiento 50 segundos
+- +20 de probabilidad de bloque.
+- -20% de costo para el bloqueo.
+- +100% de defensa de escudo.

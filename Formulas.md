@@ -18,3 +18,21 @@
 - **Level Up**
   Stat points: 2
   Skill points: 1
+  
+- **HP**
+  Initial: 40
+
+  ​	Fighter:
+  ​		HP per level: 10
+  ​		HP per CON: 5
+
+  ​	Scout:
+  ​		HP per level: 8
+  ​		HP per CON: 4
+
+  ​	Mage:
+  ​		HP per level: 6
+  ​		HP per CON: 3
+  ​	Cleric:
+  ​		HP per level: 7
+  ​		HP per CON: 4
