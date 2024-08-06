@@ -145,3 +145,5 @@ Efectos:
 - +20% de probabilidad de encontrar botín.
 - Muestra con detalles las siluetas de las criaturas tras los muros o superficies (+10%).
 - +30% detección de trampas.
+
+<u>**Modo Sigilo**</u>

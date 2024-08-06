@@ -36,3 +36,6 @@
   ​	Cleric:
   ​		HP per level: 7
   ​		HP per CON: 4
+  
+- **Sigilo**
+  Detección = Oportunidad Base + (WIS * x 0.5%) - Factor Oculto
